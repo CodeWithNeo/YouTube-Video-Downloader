@@ -1,24 +1,24 @@
 {"logo": "https://telegra.ph/file/afbe2788479c6d7a30678.jpg",
 "name": "𝐘𝐨𝐮𝐓𝐮𝐛𝐞🎬𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐞𝐫",
-"repository": "https://github.com/Krakinz/YouTube-Video-Downloader.git",
+"repository": "https://github.com/CodeWithNeo/YouTube-Video-Downloader.git",
 "stack": "container",
 "description": "𝐘𝐨𝐮𝐓𝐮𝐛𝐞🎬𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐞𝐫",
-"website": "https://t.me/Krakns",
+"website": "https://t.me/modstoreiran",
 "env": {
 "API_ID":{
-"description":"api_id part of your Telegram API Key From @HVApiBot Only",
+"description":"api_id part of your Telegram API Key From @pygetApiBot Only",
 "required":true},
 "CODE":{
 "description":"ENTER THE CODE GIVEN",
 "required":true},
 "API_HASH":{
-"description":"api_hash part of your Telegram API Key From @HVApiBot Only",
+"description":"api_hash part of your Telegram API Key From @pygetApiBot Only",
 "required":true},
 "HEROKU":{
 "description":"KEEP IT HEROKU!!!!!!!",
 "required":true},
 "BOT_TOKEN":{
-"description": "Your @Hvapibot BOT Token.",
+"description": "Your @pygetapibot BOT Token.",
 "required":true}},
 "buildpacks": [
         {"url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"},
